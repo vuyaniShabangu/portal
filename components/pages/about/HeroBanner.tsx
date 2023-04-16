@@ -101,7 +101,7 @@ const HeroBanner = (): ReactElement => {
               position: absolute;
             `}
           />
-          Canadian VirusSeq Data Portal
+          Sello's VirusSeq Data Portal
         </h1>
 
         <p
